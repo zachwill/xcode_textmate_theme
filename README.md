@@ -8,7 +8,7 @@ in TextMate.
 Usage
 -----
 
-Copy the **`TextMate.dvtcolorscheme`** file to **`~/Library/Developer/Xcode/UserData/FontAndColorThemes/`**.
+Copy the `TextMate.dvtcolorscheme` file to `~/Library/Developer/Xcode/UserData/FontAndColorThemes/`
 
 
 Screenshot
